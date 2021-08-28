@@ -33,5 +33,7 @@ nltk
 
 All of the analysis can be found in the notebook:
 
+https://github.com/pawan54/Fake-News-Detection/blob/main/Fake%20News%20Detection-checkpoint.ipynb
+
 
 
